@@ -8,14 +8,10 @@ Roni's Analytics is an analytical user-friendly and business-facing dashboard th
 https://ronibotfinal.streamlit.app
 
 ## Software Used
-We used several Python libraries to write our code and Streamlit for a dashboard visualization.
-
-## Installation and Usage
-1. **Clone the Repository**: ```git clone https://github.com/Pranav379/Roni-s-Analytics.git```
-2. **Run app.py**: Use the provided "app.py" function to generate the dashboard.
-3. **Paste this Command Printed by the Terminal into Your Local Browser**: ```streamlit run path/app.py ```
-
-The dashboard should now be visible and be able to interact with!
+-- Pandas
+-- Numpy
+-- Matplotlib
+-- Streamlit
 
 ## Contributors
 - Pranav Gaddam
