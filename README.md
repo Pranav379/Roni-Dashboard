@@ -8,10 +8,10 @@ Roni's Analytics is an analytical user-friendly and business-facing dashboard th
 https://ronibotfinal.streamlit.app
 
 ## Software Used
--- Pandas
--- Numpy
--- Matplotlib
--- Streamlit
+- Pandas
+- Numpy
+- Matplotlib
+- Streamlit
 
 ## Contributors
 - Pranav Gaddam
